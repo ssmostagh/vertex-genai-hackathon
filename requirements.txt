@@ -36,3 +36,4 @@ llama_index
 openai
 promptimize
 matplotlib
+google-serp-api
